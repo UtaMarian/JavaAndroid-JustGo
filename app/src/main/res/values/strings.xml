@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">JustGo</string>
+    <string name="welcome_msg">Salut</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_routes">RoutesActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="app_title">JustGo</string>
+    <string name="default_web_client_id">967836242772-d3sb3adjjephnmr9bpfchfnd5k8qs5ir.apps.googleusercontent.com</string>
+    <string name="bilete">Bilete</string>
+    <string name="logout">Logout</string>
+    <string name="acasa">Acasa</string>
+    <string name="open">Open Navbar</string>
+    <string name="close">Close Navbar</string>
+    <string name="map_nav">Harta rute</string>
+    <string name="logout_nav">Logout</string>
+    <string name="homepage_buybtn">Cumpara bilet</string>
+    <string name="setari">Setari</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="biometric_login">BIOMETRIC LOGIN</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="email">email</string>
+    <string name="ticket_type">Ticket type</string>
+    <string name="panou_admin">Panou admin</string>
+    <string name="salveaza">Salveaza</string>
+    <string name="settings_title">Salveaza datele pentru autentificarea biometrica</string>
+    <string name="backarrow">BackArrow</string>
+    <string name="cumpara_bilete">Cumpara bilete</string>
+    <string name="biletele_mele">Biletele mele</string>
+    <string name="lista_curse_disponibile">Cursele disponibile</string>
+    <string name="cumpara">Cumpara</string>
+
+</resources>
